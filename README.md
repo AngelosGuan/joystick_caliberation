@@ -11,7 +11,7 @@ press the button to indicate that they are done and the angle on axis will be fi
 
 After the angles on both axises are fixed, pressing the button again can reset the table control and allow the user to set table angle again repeatedly.
 
-![components](table.bmp)
+![components](/img/table.bmp)
 
 ## physical components
 
